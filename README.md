@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VarunkumarCS
-- 👀 I’m interested in learning Airtificial Intelligence, Data Science & Design Algoritms.
-- 🌱 I’m currently learning Python, Data Structures, C programming for Computer Architecture.
-- 💞️ I’m looking to collaborate on projects for getting an internship.
-- 📫 How to reach me - via github/email
+- 👀 LinkedIn - https://www.linkedin.com/in/varun-kumar-aa387221a/
+- 🌱 I’m currently pursuing my major in Computer Science and minor in Mathmatics.
+- 📫 How to reach me - via varunkumaramar@gmail.com
 
 <!---
 VarunkumarCS/VarunkumarCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
