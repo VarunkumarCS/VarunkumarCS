@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VarunkumarCS (DIGITAL MARKETING ANALYST at NJ TRANSIT)
+- 👋 Hi, I’m @VarunkumarCS (DIGITAL COMMERCE ANALYST at NJ TRANSIT)
 - 👀 LinkedIn - https://www.linkedin.com/in/varun-kumar-aa387221a/
 - 🌱 UNDERGRAD (Computer Science and minor in Mathmatics)
 - 📫 How to reach me - via varunkumaramar@gmail.com
