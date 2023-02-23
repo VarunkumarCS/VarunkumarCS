@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VarunkumarCS ('Integration and Data Center Systems Engineer' at SHI International Corporationat)
+- 👋 Hi, I’m vARUN KUMAR ('Integration and Data Center Systems Engineer' at SHI International Corporationat')
 - 👀 LinkedIn - https://www.linkedin.com/in/varun-kumar-aa387221a/
-- 🌱 UNDERGRAD (Computer Science and minor in Mathmatics)
+- 🌱 UNDERGRAD from RUTGERS UNIVERSITY(Computer Science and minor in Mathmatics)
 - 📫 How to reach me - via varunkumaramar@gmail.com
 
 <!---
