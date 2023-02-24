@@ -1,5 +1,31 @@
-- 👋 Hi, I’m Varun Kumar (IDCS Systems Engineer)
-- 👀 LinkedIn - https://www.linkedin.com/in/varun-kumar-aa387221a/
-- 🌱 UNDERGRAD from RUTGERS UNIVERSITY (Computer Science (major) & Mathmatics (minor))
-- 📫 How to reach me - varunkumaramar@gmail.com
+{
+    "INFORMATION ABOUT ME": 
+    [
+    
+      {    
+         "Full_Name" : "VARUN KUMAR 👋"
+         "Role": "IDCS SYSTEMS ENGINEER",
+         "age": 25,
+         "went to college": true,
+         "colleges went" 🌱 : 
+            [
+                {
+                    "Name": "Rutgers University",
+                    "Year": 2022,
+                    "Degree": "Bachelor in Computer Science",
+                    "Graduated": true
+                },
+                {
+                    "Name": "Middlesex County College",
+                    "Year": 2020,
+                    "Degree": "Associates in Computer Science",
+                    "Graduated": true
+                 }
+            ]
+        }
+     ]
+  }
 
+
+- 👀 LinkedIn - https://www.linkedin.com/in/varun-kumar-aa387221a/
+- 📫 How to reach me - varunkumaramar@gmail.com
