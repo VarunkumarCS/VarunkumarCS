@@ -4,8 +4,8 @@
     
       {    
          "Full Name”: "VARUN KUMAR  👋"
-         "Age": 25 ♂️,
-         "Work Experience” 🖥️: [
+         "Age": 25♂️,
+         "Work Experience🖥️:”: [
                     {
                         "Company”: "SHI international Corp",
                         "Role": "IDCS Systems Engineer 💸💼",
