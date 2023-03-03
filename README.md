@@ -11,21 +11,7 @@
                         "Role": "IDCS Systems Engineer 💸💼",
                         "Started”: "January-7-2023📅",
                         "Still Working”: true 💹
-                    },
-                    {
-                        "Company”: "NJ Transit 🚄",
-                        "Role": "Digital Commerce Analyst 🧮",
-                        "Started”: "September-26-2022📅",
-                        "Still Working”: false✖️,
-                        "Ended”: "January-05-2023📅"
-                    }
-                    {
-                        "Company”: "NJ Transit 🚊",
-                        "Role": "Technical Specialist in Mobile Applications 🧰",
-                        "Started”: "September-26-2022📅",
-                        "Still Working”: false✖️,
-                        "Ended”: "August-12-2022📅"
-                    }
+                    }   
                 ]
          "Educational Experience 📜📚": 
             [
