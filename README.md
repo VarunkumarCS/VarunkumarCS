@@ -18,7 +18,7 @@
                 {
                     "Name": "Rutgers University🏷️",
                     "Year": "May 2022📅",
-                    "Degree": "bachelor’s in computer science",
+                    "Degree": "Bachelor’s in computer science",
                     "Graduated": true💹
                 },
                 {
