@@ -8,7 +8,7 @@
          "Work Experience🖥️:”: [
                     {
                         "Company”: "SHI international Corp 💻",
-                        "Role": "IDCS Systems Engineer 💸💼",
+                        "Role": "Integration and Data Center Systems Engineer 💸💼",
                         "Started”: "January-7-2023📅",
                         "Still Working”: true 💹
                     }   
