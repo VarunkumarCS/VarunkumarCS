@@ -3,7 +3,7 @@
     [
     
       {    
-         "Full Name”: "VARUN KUMAR  👋"
+         "Full Name”: "VARUN KUMAR 👋"
          "Age": 26 ♂️,
          "Work Experience🖥️:”: [
                     {
