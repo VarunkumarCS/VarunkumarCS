@@ -7,7 +7,7 @@
          "Age": 25 ♂️,
          "Work Experience🖥️:”: [
                     {
-                        "Company”: "SHI international Corp 💻",
+                        "Company”: "SHI Warehouse and Integration Center 💻",
                         "Role": "Integration and Data Center Systems Engineer 💸💼",
                         "Started”: "January-7-2023📅",
                         "Still Working”: true 💹
